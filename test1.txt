@@ -3,3 +3,5 @@ first
 second
 
 branch1-third
+
+branch1-alter tag
